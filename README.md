@@ -2,7 +2,11 @@
 
 ## Nome do Projeto
 
+OrganizaMe
+
 #### Autor do projeto
+
+Victor Garcia Dos Santos
 
 ## Sumário
 
@@ -16,16 +20,13 @@
 
 ## <a name="c1"></a>1. Introdução (Semana 01)
 
-*Preencha com até 300 palavras – sem necessidade de fonte.*
-*Descreva brevemente o sistema que você irá desenvolver.*
-
----
+Trata-se de um site desenvolvido com o objetivo de facilitar o agendamento e a gestão de reservas de salas de forma simples, prática e eficiente. A plataforma permite ao usuário adicionar, modificar, editar e visualizar todas as informações relacionadas às reservas, com uma interface intuitiva e acessível, pensada para otimizar a experiência do usuário. Os dados são integrados diretamente a um banco de dados, garantindo atualização em tempo real e maior confiabilidade nas informações exibidas. Isso contribui para uma melhor organização e planejamento tanto por parte dos administradores do sistema quanto dos usuários que desejam reservar uma sala para seus compromissos. Com esse sistema, torna-se muito mais fácil evitar conflitos de horários, acompanhar a disponibilidade de espaços e manter um controle eficaz sobre o uso das salas, promovendo maior produtividade e organização.
 
 ## <a name="c2"></a>2. Visão Geral da Aplicação Web
 
 ### 2.1. Personas (Semana 01)
 
-*Posicione aqui sua(s) Persona(s) em forma de texto markdown com imagens, ou como imagem de template preenchido. Atualize esta seção ao longo do módulo se necessário.*
+![persona](/Persona_Manuela_Soares.png)
 
 ### 2.2. User Stories (Semana 01)
 
