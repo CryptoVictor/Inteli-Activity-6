@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="/OrganizaMe.png" alt="Logo">
+</p>
+
+<br/>
+
 # Web Application Document - Projeto Individual - Módulo 2 - Inteli
 
 ## Nome do Projeto
