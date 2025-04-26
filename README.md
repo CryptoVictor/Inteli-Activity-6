@@ -36,9 +36,23 @@ Trata-se de um site desenvolvido com o objetivo de facilitar o agendamento e a g
 
 ### 2.2. User Stories (Semana 01)
 
-*Posicione aqui a lista de User Stories levantadas para o projeto. Siga o template de User Stories e utilize a referência USXX para numeração (US01, US02, US03, ...). Indique todas as User Stories mapeadas, mesmo aquelas que não forem implementadas ao longo do projeto. Não se esqueça de explicar o INVEST de 1 User Storie prioritária.*
+> US01 |
 
----
+I – Independente ->
+<br/>
+N – Negociável ->
+<br/>
+V – Valiosa ->
+<br/>
+E – Estimável ->
+<br/>
+S – Pequena (Small) ->
+<br/>
+T – Testável ->
+
+> US02 |
+
+> US03 |
 
 ## <a name="c3"></a>3. Projeto da Aplicação Web
 
