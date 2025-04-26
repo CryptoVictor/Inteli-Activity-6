@@ -36,23 +36,29 @@ Trata-se de um site desenvolvido com o objetivo de facilitar o agendamento e a g
 
 ### 2.2. User Stories (Semana 01)
 
-> US01 |
+> US01 | Como estudante universitária, quero ver quais salas estão disponíveis para agendamento em tempo real, para que eu possa reservar sem problemas e sem burocracia.
 
-I – Independente ->
-<br/>
-N – Negociável ->
-<br/>
-V – Valiosa ->
-<br/>
-E – Estimável ->
-<br/>
-S – Pequena (Small) ->
-<br/>
-T – Testável ->
+**I – Independente** -> A história pode ser desenvolvida e testada de forma independente, sem depender de outros recursos ou funcionalidades.
 
-> US02 |
 
-> US03 |
+**N – Negociável** -> A funcionalidade de visualização em tempo real pode ser negociada em termos de detalhes (exemplo: tempo de atualização da disponibilidade, outras opções de visualização), mas o objetivo principal de ver a disponibilidade permanece.
+
+
+**V – Valiosa** -> A funcionalidade de ver as salas em tempo real agrega valor direto à experiência do usuário, permitindo agendamentos rápidos e sem frustrações.
+
+
+**E – Estimável** -> A complexidade de implementar a visualização em tempo real pode ser estimada, com base na integração com o sistema de agendamento e no tempo de resposta necessário.
+
+
+**S – Pequena (Small)** -> A história é pequena o suficiente para ser concluída em um ciclo de desenvolvimento curto, como uma sprint de uma semana, focando na funcionalidade principal de visualização.
+
+
+**T – Testável** -> A funcionalidade pode ser testada facilmente, verificando se a disponibilidade das salas é atualizada corretamente em tempo real, sem erros.
+
+
+> US02 | Como estudante universitária, quero remover reservas individuais que fiz para sala desde que sejam antes da hora atribuida ao agendamento, para que eu não tenha dor de cabeça caso algo saia diferente do planejado na minha rotina.
+
+> US03 | Como estudante universitária, quero editar informações referentes as reservas de forma simples, fácil e transparente, para que assim as informações estejam sempre atualizadas com as minhas necessidades.
 
 ## <a name="c3"></a>3. Projeto da Aplicação Web
 
